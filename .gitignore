@@ -1,4 +1,3 @@
-
 # Playwright
 node_modules/
 /test-results/
@@ -11,4 +10,8 @@ node_modules/
 .env
 
 # VS Code config
+<<<<<<< HEAD
 .vscode/mcp.json
+=======
+.vscode/mcp.json
+>>>>>>> a11ca5ae89add09658d21a618dab1c7adba7ad5e

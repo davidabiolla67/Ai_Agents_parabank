@@ -18,10 +18,7 @@
     
     "github": {
       "type": "http",
-      "url": "https://api.githubcopilot.com/mcp/",
-      "headers": {
-        "Authorization": "Bearer _xE2JUURY7ZvQ77OLIovuytsVRbDi5cQ3zkhreLX5ZvbAM4PIZ5Kv4qLjocI"
-      }
+      "url": "https://api.githubcopilot.com/mcp/"
     }
   
   },
